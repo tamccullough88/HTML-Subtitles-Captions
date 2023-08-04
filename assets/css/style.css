@@ -26,3 +26,6 @@ main p {
 main h2 {
     color: lightseagreen;
 }
+video {
+    width: 400px;
+}
